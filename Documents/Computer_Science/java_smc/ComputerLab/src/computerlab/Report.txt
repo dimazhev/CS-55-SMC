@@ -1,0 +1,108 @@
+LAB STATUS 
+Lab # Computer Station
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+1
+Enter the 5 digit ID number of the user logging in: 
+12345
+Enter the lab number the user is logging in from(1-4:
+1
+Enter computer station number the user is logging in to (1-6)
+1
+1 1: 12345 2: empty 3: empty 4: empty 5: empty 
+2 1: empty 2: empty 3: empty 4: empty 5: empty 6: empty 
+3 1: empty 2: empty 3: empty 4: empty 
+4 1: empty 2: empty 3: empty 
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+1
+Enter the 5 digit ID number of the user logging in: 
+23456
+Enter the lab number the user is logging in from(1-4:
+2
+Enter computer station number the user is logging in to (1-6)
+2
+1 1: 12345 2: empty 3: empty 4: empty 5: empty 
+2 1: empty 2: 23456 3: empty 4: empty 5: empty 6: empty 
+3 1: empty 2: empty 3: empty 4: empty 
+4 1: empty 2: empty 3: empty 
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+1
+Enter the 5 digit ID number of the user logging in: 
+34567
+Enter the lab number the user is logging in from(1-4:
+3
+Enter computer station number the user is logging in to (1-6)
+3
+1 1: 12345 2: empty 3: empty 4: empty 5: empty 
+2 1: empty 2: 23456 3: empty 4: empty 5: empty 6: empty 
+3 1: empty 2: empty 3: 34567 4: empty 
+4 1: empty 2: empty 3: empty 
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+3
+Enter the 5 digit number of the user to find
+12345
+User12345 is logged in to station Number1 In Lab number1
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+3
+Enter the 5 digit number of the user to find
+23456
+User23456 is logged in to station Number2 In Lab number2
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+3
+Enter the 5 digit number of the user to find
+34567
+User34567 is logged in to station Number3 In Lab number3
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+2
+Enter the 5 digit ID number of the user logging off
+23456
+1 1: 12345 2: empty 3: empty 4: empty 5: empty 
+2 1: empty 2: empty 3: empty 4: empty 5: empty 6: empty 
+3 1: empty 2: empty 3: 34567 4: empty 
+4 1: empty 2: empty 3: empty 
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+2
+Enter the 5 digit ID number of the user logging off
+12345
+1 1: empty 2: empty 3: empty 4: empty 5: empty 
+2 1: empty 2: empty 3: empty 4: empty 5: empty 6: empty 
+3 1: empty 2: empty 3: 34567 4: empty 
+4 1: empty 2: empty 3: empty 
+MAIN MENU 
+0) Quit
+1)Simulate Login
+2) Simulate Logoff
+3)Search
+0
+BUILD SUCCESSFUL (total time: 1 minute 1 second)

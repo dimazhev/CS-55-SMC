@@ -1,0 +1,37 @@
+Dmitriy Zhevelev's test of the shopping cart program. It compiles correctly and gives the results i was hoping for. Tested different formats of adding and removing items to my cart.
+
+run:
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Total Price of cart: $25
+----------------------
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Movie Information -- Title: Avatar, Description: A movie about blue people, Length in minutes: 120, Price: $25.0
+Total Price of cart: $50
+----------------------
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Movie Information -- Title: Avatar, Description: A movie about blue people, Length in minutes: 120, Price: $25.0
+Movie Information -- Title: Avengers, Description: Ironman Dies, Length in minutes: 155, Price: $19.0
+Total Price of cart: $69
+----------------------
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Movie Information -- Title: Avatar, Description: A movie about blue people, Length in minutes: 120, Price: $25.0
+Movie Information -- Title: Avengers, Description: Ironman Dies, Length in minutes: 155, Price: $19.0
+CD Information -- Title: Toxicity, Description: System of Downs 4th Album, track Count: 12, Price: $10.0
+Total Price of cart: $79
+----------------------
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Movie Information -- Title: Avatar, Description: A movie about blue people, Length in minutes: 120, Price: $25.0
+Movie Information -- Title: Avengers, Description: Ironman Dies, Length in minutes: 155, Price: $19.0
+Total Price of cart: $69
+----------------------
+Printing items in the Shopping Cart: 
+Book Information -- Title: Game of Thrones, Description: A Story about an Iron Throne, Page Count: 700, Price: $25.0
+Movie Information -- Title: Avatar, Description: A movie about blue people, Length in minutes: 120, Price: $25.0
+Total Price of cart: $50
+----------------------
+BUILD SUCCESSFUL (total time: 0 seconds)

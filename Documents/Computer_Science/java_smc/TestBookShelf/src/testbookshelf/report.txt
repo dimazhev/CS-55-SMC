@@ -1,0 +1,54 @@
+I have tested the program and there are not any issues
+
+
+The bookshelf is already empty! Nothing to remove
+The Book The Litle Prince cannot be removed because it is not on the shelf
+Book (Title: The Litle Prince
+Author: Antoine de Saint-Exupéry
+Publisher: Jeffrey
+Price: 10.0
+Copyright: 11/20/1942)
+has been added to the shelf! Total number of books is 1
+
+Book (Title: Abnormal psychology
+Author: jordan peterson
+Publisher: publisher 2
+Price: 11.5
+Copyright: 03/16/2019)
+has been added to the shelf! Total number of books is 2
+
+Book (Title: The stranger
+Author: Albert Camus
+Publisher: publisher 3
+Price: 10.5
+Copyright: 08/23/2008)
+has been added to the shelf! Total number of books is 3
+
+Book (Title: Notes from Underground
+Author: Fyodor Dostoevsky
+Publisher: publisher 4
+Price: 13.0
+Copyright: 07/06/1922)
+has been added to the shelf! Total number of books is 4
+
+Book (Title: The daVinci Code
+Author: Dan brown
+Publisher: publisher 5
+Price: 100.0
+Copyright: 07/27/2017)
+has been added to the shelf! Total number of books is 5
+
+Book (Title: The stranger
+Author: Albert Camus
+Publisher: publisher 3
+Price: 10.5
+Copyright: 08/23/2008)
+ has been removed from the shelf! Total number of books is 4
+
+Book (Title: Angels and Demons
+Author: Dan brown
+Publisher: publisher x
+Price: 100.0
+Copyright: 07/27/2017)
+has been added to the shelf! Total number of books is 5
+BUILD SUCCESSFUL (total time: 0 seconds)

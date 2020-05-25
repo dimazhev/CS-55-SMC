@@ -1,0 +1,33 @@
+run:
+Hi, I am really good at math! Put me to the test.
+Please enter two numbers and then press Enter: 13.6 15
+Please enter one of the operations +, -, *, or / and press Enter: +
+13.6 + 15.0 = 28.6
+I'm great at addition
+Play again [Y/N]?: y
+Hi, I am really good at math! Put me to the test.
+Please enter two numbers and then press Enter: 14.67 83
+Please enter one of the operations +, -, *, or / and press Enter: -
+14.67 - 83.0 = -68.33
+Im great at subtraction!
+Play again [Y/N]?: y
+Hi, I am really good at math! Put me to the test.
+Please enter two numbers and then press Enter: 15.101 8
+Please enter one of the operations +, -, *, or / and press Enter: /
+15.101 / 8.0 = 1.887625
+Im great at division!
+Play again [Y/N]?: y
+Hi, I am really good at math! Put me to the test.
+Please enter two numbers and then press Enter: 14 16.1
+Please enter one of the operations +, -, *, or / and press Enter: *
+14.0 * 16.1 = 225.40000000000003
+Im great at multiplication!
+Play again [Y/N]?: y
+Hi, I am really good at math! Put me to the test.
+Please enter two numbers and then press Enter: 26 39
+Please enter one of the operations +, -, *, or / and press Enter: $
+I can compute really well, but what you entered is not one of the operations I
+know ...
+Play again [Y/N]?: n
+Bye Bye!
+BUILD SUCCESSFUL (total time: 2 minutes 23 seconds)
